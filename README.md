@@ -18,7 +18,7 @@
   ## Description
   This project is a simple web game created solely with JavaScript which allows users to battle it out in a game of robot vs. robot.
   
-  <img src="https://github.com/ccd330/ecommerce-backend/blob/main/Develop/demo.png" />
+  <img src="https://github.com/ccd330/robot-gladiators/blob/main/demo.png" />
 
   ## Installation Instructions
   N/A
